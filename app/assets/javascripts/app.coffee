@@ -1,0 +1,1 @@
+stockPicker = angular.module('stockPicker',[])
